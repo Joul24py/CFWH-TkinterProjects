@@ -1,0 +1,3 @@
+pyinstaller main.py // Standard conversion
+pyinstaller main.py --onefile // Compressing all the application inside a single exe file
+pyinstaller main.py --onefile -w // Compressing all the application inside a single exe file and hiding the console
