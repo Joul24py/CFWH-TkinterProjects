@@ -8,7 +8,7 @@ Repository made for learning GUI with tkinter based on the YouTube playlist [Tki
 4. [Python Excel Data Entry Form with Tkinter tutorial for beginners - Python GUI project [openpyxl]](https://www.youtube.com/watch?v=fvIThtPt6Nc)
 5. [Python SQLite Data Entry Form with Tkinter tutorial for beginners - Python GUI project](https://www.youtube.com/watch?v=gdDI_GhIRGo)
 6. [Convert Tkinter Python App to Executable (.Exe) File [pyinstaller]](https://www.youtube.com/watch?v=Iv_dECet_oM)
-7. []()
+7. [Python Invoice Generator tutorial for beginners - Python GUI Automation project [resume project]](https://www.youtube.com/watch?v=mJc5gAnnlVQ)
 8. []()
 9. []()
 10. []()
