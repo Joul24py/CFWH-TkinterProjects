@@ -4,7 +4,7 @@ Repository made for learning GUI with tkinter based on the YouTube playlist [Tki
 
 1. [Tkinter Login Form tutorial for COMPLETE beginners [responsive layout]](https://www.youtube.com/watch?v=MeMCBdnhvQs)
 2. [Tkinter URL Shortener project tutorial for COMPLETE beginners - Create tinyurl with Python + Tkinter](https://www.youtube.com/watch?v=NvzIGaEOKCk)
-3. []()
+3. [Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://www.youtube.com/watch?v=vusUfPBsggw)
 4. []()
 5. []()
 6. []()
