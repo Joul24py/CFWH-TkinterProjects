@@ -2,7 +2,7 @@ import tkinter, PyPDF2
 from tkinter import filedialog
 
 def openFile():
-    filename = filedialog.askopenfilename(title="Open PDF file", initialdir='D:\codefirst.io\Tkinter Extract PDF Text',filetypes=[('PDF files', '*.pdf')])
+    filename = filedialog.askopenfilename(title="Open PDF file", initialdir='C:\\Users\\alexe\\Tkinter',filetypes=[('PDF files', '*.pdf')])
     
     print(filename)
     

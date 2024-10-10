@@ -10,7 +10,7 @@ Repository made for learning GUI with tkinter based on the YouTube playlist [Tki
 6. [Convert Tkinter Python App to Executable (.Exe) File [pyinstaller]](https://www.youtube.com/watch?v=Iv_dECet_oM)
 7. [Tkinter PDF Text Extractor tutorial for beginners - Python GUI project [Tkinter, PyPDF2]](https://www.youtube.com/watch?v=CW481om80XU)
 8. [Python Invoice Generator tutorial for beginners - Python GUI Automation project [resume project]](https://www.youtube.com/watch?v=mJc5gAnnlVQ)
-9. []()
+9. [Python Tkinter Load Excel Data tutorial [openpyxl, tkinter]](https://www.youtube.com/watch?v=teBfyozQj4w)
 10. []()
 11. []()
 12. []()
